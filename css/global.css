@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+.link{
+    color: white;
+}
+.link:hover{
+    color: rgb(215, 211, 211);
+    text-decoration: none;
+
+}
+
+ul li {
+    list-style: none;
+}
+ul{
+    list-style-type: none;
+}

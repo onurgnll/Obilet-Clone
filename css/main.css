@@ -1,0 +1,181 @@
+header{
+    height: 80px;
+    background-color: #D23B38;
+    padding-left: 9%;
+    padding-right: 15%;
+}
+
+h1{
+    padding-left: 4rem;
+    padding-top: 1rem;
+}
+
+#ulasimaraci{
+    height: 72px;
+    
+}
+
+.aaa{
+    padding-left: 9%;
+    padding-right: 15%;
+
+}
+.ull{
+    border: 2px solid rgb(199, 199, 199);
+    margin: 0.7rem;
+    border-radius: 25px;
+    font-size:115%;
+    font-weight: 600;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.ull:hover{
+    border: 2px solid gray;
+}
+.ulicons{
+    color: #d74e4c;
+    margin: 3px;
+}
+.active{
+    background-color: red;
+
+}
+#ulasimaraci{
+    padding-left: 10%;
+}
+
+#searchcontainer{
+    height: 428px;
+    background-image: url("https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/page-banner/spring-background-2020.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#arama{
+    width: 40%;
+    height: auto;
+}
+
+
+#box{
+    width: 29rem;
+    height: 350px;
+    border-radius: 10px;
+    margin-left: 10rem;
+}
+
+#taraf1 {
+    display: inline-block;
+
+    width: 45%;
+    height: 428px;
+}
+#taraf2{
+    display: inline-block;
+    width: 55%;
+    height: 428px;
+}
+
+#ayir{
+    display: flex;
+
+}
+
+.yazi {
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+#buttons{
+    margin-right: 10rem;
+    width: 80%;
+    height: 300px;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 28%;
+    height: 140px;
+    margin: 10px;
+    background-color: rgba(40, 40, 40,0.5);
+    border-radius: 15px;
+}
+.beyaz{
+    color: rgba(255, 255, 255,255);
+    opacity: 100%;
+    z-index: 1;
+}
+
+#creditcard{
+    height: 178px;
+    border-bottom: 1px solid rgb(165, 165, 165);
+}
+
+#altsatir{
+    height: 350px;
+    margin: 10px;
+    background-color: #FAFAFA;
+}
+
+.boxlar{
+    width: 22%;
+    height: 300px;
+    background-color: white;
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(178, 178, 178);
+    border-radius: 10px;
+
+}
+#listt ul{
+    margin-left: 20%;
+}
+
+#listt ul li{
+    display: inline;
+    color: #5D686E;
+}
+
+#listt ul li a{
+    color: #5D686E;
+    padding: 3px;
+}
+#listt ul li a:hover{
+    text-decoration: none;
+}
+.sorupenceresi{
+    cursor: pointer;
+}
+
+
+#enalt ul{
+    margin-top: 2rem;
+}
+
+#enalt ul li a{
+    color: #5D686E;
+    font-size: 90%;
+
+}
+#enalt ul li a:hover{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#kalkis{
+    width: 20rem;
+    height: 3rem;
+    border: none;
+    
+}
+
+#kalkislabel{
+    color: #9ca3a7;
+    font-weight: 700;
+    position: relative;
+    top: 1rem;
+}
+
+#imagediv{
+    margin-top: 2rem;
+}
